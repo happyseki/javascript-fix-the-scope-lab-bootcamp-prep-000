@@ -28,7 +28,7 @@ add2();
 var funkyFunction = function () {
   
   return function() {
-    return'is "FUNKY"';
+    return'is "FUNKY
   };
 };
 
