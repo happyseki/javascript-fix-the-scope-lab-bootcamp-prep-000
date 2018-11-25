@@ -14,8 +14,9 @@ function yourAnimal() {
 }
 yourAnimal();
 
-function add2() {
-  const n = Math.floor(Math.random() * 1000);
+const n = Math.floor(Math.random() * 1000);
+function add2(n) {
+  
    const two = 2;
   return n + two;
 
